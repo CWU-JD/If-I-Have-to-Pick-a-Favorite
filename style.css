@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #00008B; /* Dark blue background */
+    color: #B8860B; /* Dark yellow font color */
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: #1E1E1E; /* Slightly lighter dark background for contrast */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+a {
+    color: #FFD700; /* Gold color for links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
